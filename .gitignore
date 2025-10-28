@@ -2,7 +2,7 @@ node_modules/
 .log/
 .clasp.json
 .vscode/
-.swp
+.swp/
 
 #development_codes
 DM_no_use.js
